@@ -1,0 +1,17 @@
+{
+  "name": "robot2",
+  "version": "0.0.0",
+  "description": "robot",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:song940/robot.git",
+    "type": "git"
+  },
+  "author": "Lsong <song940@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "snowboy": "*",
+    "node-nlp": "*",
+    "node-record-lpcm16": "*"
+  }
+}
